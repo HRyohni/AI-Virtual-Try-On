@@ -55,7 +55,7 @@ This single-step process avoids the quality degradation and artifacts that can o
 
 ### Usage
 
-1.  Place your model's image in the project directory and name it `model.jpg`.
+1.  Place your model's image in the project directory and name it `model.png`.
 2.  Place the image of the person wearing the desired outfit in the directory and name it `outfit_image.png`.
 3.  Run the script from your terminal:
     ```bash
